@@ -1,0 +1,12 @@
+Hi, to explain the project
+I initially built the main interface using Tinker and Pandas
+
+After building the interface, I have built the associations for each of the buttons in the interface
+1- The Add button: where the task to be added is entered, you add it to the program interface, and then you add it to the file
+2- Update button: You can click on any of the tasks that you previously entered, and after clicking, you can press the edit button, 
+and thus another window will open asking you to enter the new value in which the task that was selected will be updated 
+3- Delete button: When you click on one of these tasks, you can delete any of the tasks you want
+4- Complete button: When you click on any of the tasks and then click on the Finish button, 
+the color of the task will change to gray, meaning that the task has been completed.
+
+Every icons on the GUI consider as a Buttons 
